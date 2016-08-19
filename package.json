@@ -1,0 +1,27 @@
+{
+  "name": "aws_tools",
+  "version": "1.0.0",
+  "description": "Matt's AWS tools",
+  "main": "maws.js",
+  "scripts": {
+    "test": "maws.js --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asdqwex/aws_tools.git"
+  },
+  "keywords": [
+    "aws",
+    "javascript",
+    "managment"
+  ],
+  "author": "Matthew Ellsworth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asdqwex/aws_tools/issues"
+  },
+  "homepage": "https://github.com/asdqwex/aws_tools#readme",
+  "dependencies": {
+    "aws-sdk": "^2.5.2",
+  }
+}
